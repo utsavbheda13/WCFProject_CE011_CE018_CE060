@@ -1,0 +1,13 @@
+D:\6th SEM\SOC\WCFProject\Movie-Rating-System-master\MovieRatingSystemHost\bin\Debug\MovieRatingSystemHost.exe.config
+D:\6th SEM\SOC\WCFProject\Movie-Rating-System-master\MovieRatingSystemHost\bin\Debug\MovieRatingSystemHost.exe
+D:\6th SEM\SOC\WCFProject\Movie-Rating-System-master\MovieRatingSystemHost\bin\Debug\MovieRatingSystemHost.pdb
+D:\6th SEM\SOC\WCFProject\Movie-Rating-System-master\MovieRatingSystemHost\bin\Debug\MovieRatingSystem.dll
+D:\6th SEM\SOC\WCFProject\Movie-Rating-System-master\MovieRatingSystemHost\bin\Debug\EntityFramework.dll
+D:\6th SEM\SOC\WCFProject\Movie-Rating-System-master\MovieRatingSystemHost\bin\Debug\MovieRatingSystem.pdb
+D:\6th SEM\SOC\WCFProject\Movie-Rating-System-master\MovieRatingSystemHost\bin\Debug\MovieRatingSystem.dll.config
+D:\6th SEM\SOC\WCFProject\Movie-Rating-System-master\MovieRatingSystemHost\bin\Debug\EntityFramework.xml
+D:\6th SEM\SOC\WCFProject\Movie-Rating-System-master\MovieRatingSystemHost\obj\Debug\MovieRatingSystemHost.csprojAssemblyReference.cache
+D:\6th SEM\SOC\WCFProject\Movie-Rating-System-master\MovieRatingSystemHost\obj\Debug\MovieRatingSystemHost.csproj.CoreCompileInputs.cache
+D:\6th SEM\SOC\WCFProject\Movie-Rating-System-master\MovieRatingSystemHost\obj\Debug\MovieRatingSystemHost.csproj.CopyComplete
+D:\6th SEM\SOC\WCFProject\Movie-Rating-System-master\MovieRatingSystemHost\obj\Debug\MovieRatingSystemHost.exe
+D:\6th SEM\SOC\WCFProject\Movie-Rating-System-master\MovieRatingSystemHost\obj\Debug\MovieRatingSystemHost.pdb
